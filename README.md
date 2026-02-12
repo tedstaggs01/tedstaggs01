@@ -12,7 +12,6 @@
   <p style="font-size: 1.2em; color: #777; max-width: 620px; line-height: 1.7;">
     Airline pilot from Luxembourg.<br>
     I enjoy building small, useful tools in my free time.<br>
-    Always thinking about the next flight... or the open sea.
   </p>
 
   <br>
