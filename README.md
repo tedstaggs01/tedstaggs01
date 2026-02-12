@@ -45,10 +45,3 @@ Occasional thoughts on travel, ideas, and everyday things.
 Common sense first.  
 Keep it simple, make it work, enjoy the journey.
 
----
-
-<div align="center">
-  <sub style="color: #666; font-size: 0.9em;">
-    Building, flying, sailing — one step at a time.
-  </sub>
-</div>
