@@ -1,48 +1,44 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00ff41&center=true&vCenter=true&width=500&lines=Vibe+Coding;Airline+Pilot;Future+Ocean+Sailor" alt="Typing Animation" />
+  
+  <br/><br/>
+  
+  <!-- Optional subtle matrix-style rain background – comment out if too much -->
+  <!-- <img src="https://raw.githubusercontent.com/Rezmason/matrix/master/matrix.svg" width="100%" style="opacity:0.08; position:absolute; top:0; left:0; z-index:-1;" alt="Matrix Rain Background" /> -->
+  
+  <pre style="font-family: 'Courier New', monospace; color: #00ff41; background: #0d1117; padding: 20px; border-radius: 8px; border: 1px solid #00ff41; max-width: 800px; margin: 20px auto; text-align: left;">
+<span style="color: #00ff41;">user@luxembourg:~$ whoami</span>
+Airline pilot turned vibe coder.
+Building quiet tools. Exploring skies & seas.
 
-  <img src="https://images.pexels.com/photos/30029771/pexels-photo-30029771/free-photo-of-sailing-boat-at-sunset-on-calm-ocean-waters.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Sailboat gliding on calm ocean at sunset" width="600" style="border-radius: 12px; margin: 20px 0;">
+<span style="color: #00ff41;">user@luxembourg:~$ cat location.txt</span>
+📍 Luxembourg
 
-  <h1>Vibe Coding</h1>
+<span style="color: #00ff41;">user@luxembourg:~$ ls projects/</span>
+Pilotflows    →  <a href="https://pilotflows.com/" style="color: #00ff9d; text-decoration: none;">https://pilotflows.com/</a>
+               Aviation ops: logbooks, scheduling, flight school + skydiving tools
 
-  <p>Airline pilot · Luxembourg</p>
+Tegi          →  <a href="https://tegi.lu" style="color: #00ff9d; text-decoration: none;">https://tegi.lu</a>
+               Holding space for digital experiments
 
-  <p>Exploring code, the sky, and soon the open sea.</p>
+<span style="color: #00ff41;">user@luxembourg:~$ cat blog.md</span>
+Personal notes → <a href="https://staggs.lu" style="color: #00ff9d; text-decoration: none;">Staggs.lu</a>
 
+<span style="color: #00ff41;">user@luxembourg:~$ grep -i "doing"</span>
+- Writing small code that solves real things
+- Flying jets across continents
+- Planning to buy a boat and sail the world
+
+<span style="color: #00ff41;">user@luxembourg:~$ cat philosophy.txt</span>
+Common sense first.
+No unnecessary layers.
+Ship simple. Fly safe. Sail free.
+
+<span style="color: #00ff41;">user@luxembourg:~$ echo "end of transmission"</span>
+Let's build, fly, and sail.
+  </pre>
 </div>
 
----
-
-### Projects
-
-- **[Pilotflows](https://pilotflows.com/)**  
-  Platform for aviation management: digital logbooks, fleet scheduling, tools for flight schools and skydiving operations.
-
-- **[Tegi](https://tegi.lu)**  
-  Holding company supporting digital products like Pilotflows.
-
-### Writing
-
-- Personal blog: [Staggs.lu](https://staggs.lu)  
-  Notes on travel, thoughts, and everyday observations.
-
-### What I'm Doing
-
-Coding small, useful ideas when time allows.  
-Flying routes as an airline pilot.  
-Quietly planning to buy a boat and sail the world one day—long passages, new horizons, simple freedom on the water.
-
-### Philosophy
-
-Common sense first.  
-Keep it straightforward, make it reliable, enjoy the journey without complication.
-
-<div align="center">
-
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width: 100%; height: 80px; margin: 40px 0 -1px 0;">
-    <path d="M0,0 C150,90 350,0 500,60 L700,0 C850,90 1050,0 1200,60 L1200,120 L0,120 Z" fill="#e0f7fa" opacity="0.6"/>
-    <path d="M0,30 C200,120 400,30 600,90 L800,30 C1000,120 1200,30 1200,90 L1200,120 L0,120 Z" fill="#b2ebf2" opacity="0.4"/>
-  </svg>
-
-  <sub>One day, the horizon will be all water. Until then—code, fly, prepare.</sub>
-
+<div align="center" style="margin-top: 40px; color: #888; font-family: monospace; font-size: 0.9em;">
+  <sub>echo "horizon = ∞"  # someday all water, no edges</sub>
 </div>
